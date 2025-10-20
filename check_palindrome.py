@@ -1,5 +1,5 @@
-num=int(input("Enter no:"))
-
+x=int(input("Enter no:"))
+'''
 
 def check_palindrome(num):
     n=num
@@ -15,6 +15,16 @@ def check_palindrome(num):
         print("Not A palindrome")
 
 check_palindrome(num)
+'''
+
+
+
+if x<0 or(x!=0 and x%10==0):
+    print(False)
+if x==0:
+    print(True)
+
+y=0
 
 
 
