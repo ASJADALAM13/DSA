@@ -19,13 +19,6 @@ check_palindrome(num)
 
 
 
-if x<0 or(x!=0 and x%10==0):
-    print(False)
-if x==0:
-    print(True)
-
-y=0
-
 
 
 
